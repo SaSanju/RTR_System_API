@@ -12,11 +12,11 @@ Inside the Folder `routes`,
      `customerApi.js` contains the APIs for Customers,
     `restaurantApi.js` contains the APIs for Restaurants
 
-Inside the Foldar `models`,
+Inside the Folder `models`,
      four database collections are maintained, 
     `booking`, `restaurant`, `review`, `table`.
 
-Inside the Foldar `doc`
+Inside the Folder `doc`
     Full documentation of concerns APIs are listed.
 
 # To initiate Application
