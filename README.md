@@ -21,9 +21,7 @@ Inside the Foldar `doc`
 
 # To initiate Application
 
-
     > npm install -g nodemon
     > npm install
     > nodemon
-
 
