@@ -8,12 +8,12 @@ Restaurant Table Reservation Application RESTful APIs
 
 # File Structure
 
-Inside the Folder `routes`
-    `customerApi.js` contains the APIs for Customers
+Inside the Folder `routes`,
+     `customerApi.js` contains the APIs for Customers,
     `restaurantApi.js` contains the APIs for Restaurants
 
-Inside the Foldar `models`
-    four database collections are maintained 
+Inside the Foldar `models`,
+     four database collections are maintained, 
     `booking`, `restaurant`, `review`, `table`.
 
 Inside the Foldar `doc`
